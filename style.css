@@ -1,0 +1,36 @@
+body {
+  background-color: #fff;
+  padding: 10px 30px;
+  border-radius: 8px;
+  color: #212121;
+  text-decoration: none;
+  border: 2px solid;
+} 
+
+.button {
+  height: 70px;
+  width: 70px;
+}
+
+#grey {
+  background-color: grey;
+}
+#purple {
+  background-color: purple;
+}
+#geen {
+  background-color: green;
+}
+#black {
+  background-color: black;
+}
+#white {
+  color: grey;
+  background-color: wheat;
+}
+#blue {
+  background-color: blue;
+}
+#yellow {
+  background-color: yellow;
+}
